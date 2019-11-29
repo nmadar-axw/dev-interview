@@ -54,5 +54,5 @@ description: String
 
 **Bonus round**: 
 
-Design unit tests for the entire logic and/or integration tests that goes through a complete flow of the application.
+Design unit tests for the entire logic and/or integration tests that go through a complete flow of the application.
 Sketch an HTML + Javascript interface that can call and display the results from at least one endpoint.
